@@ -12,7 +12,7 @@ SynapticFlow is engineered as a lean, event-driven automation pipeline designed 
 [ Incoming Webhook / Client Message ] 
            │
            ▼
-   [ n8n Core Router ] ◄──► [ OpenAI LLM Engine (Intent & Context) ]
+   [ n8n Core Router ] ◄──► [ GROQ LLM Engine (Intent & Context) ]
            │
            ├────────────────────────┐
            ▼                        ▼
